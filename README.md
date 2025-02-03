@@ -21,9 +21,17 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilraz&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilraz&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahilali5&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahilali5&theme=radical" width="48%"/>
 </p>
+
+## 🔥 GitHub Repos, Stars & Forks:
+<p align="center">
+  <img src="https://img.shields.io/github/repos/Shahilali5?style=for-the-badge&logo=github&label=Repos" alt="Total Repos"/>
+  <img src="https://img.shields.io/github/stars/Shahilali5?style=for-the-badge&logo=github&label=Stars" alt="Total Stars"/>
+  <img src="https://img.shields.io/github/forks/Shahilali5?style=for-the-badge&logo=github&label=Forks" alt="Total Forks"/>
+</p>
+
 
 ---
 
