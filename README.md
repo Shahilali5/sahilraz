@@ -53,14 +53,6 @@
 
 ---
 
-## 🎯 GitHub Contribution
-- <b>[Shahil440™](https://github.com/Shahil440)</b>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Shahil440&theme=github&hide_border=true" />
-</p>
-
-
 ---
 
 ## 🚀 Fun Fact:
