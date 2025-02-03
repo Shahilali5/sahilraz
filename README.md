@@ -55,7 +55,7 @@
 
 ## 🎯 GitHub Contribution Graph:
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Shahilali5&theme=github&hide_border=true" />
+  <img src="https://github.com/Shahilali5" />
 </p>
 
 ---
