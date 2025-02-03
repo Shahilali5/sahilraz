@@ -54,9 +54,7 @@
 ---
 
 ## 🎯 GitHub Contribution Graph:
-<p align="center">
-  <img src="https://github.com/Shahilali5" />
-</p>
+- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝖳HE Shahil440™](https://github.com/TEAMPURVI) ғᴏʀ [The A1BOTAPIS™](https://github.com/TEAMPURVI/PURVI_MUSIC) </b>
 
 ---
 
