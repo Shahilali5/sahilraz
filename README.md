@@ -25,11 +25,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahilali5&theme=radical" width="48%"/>
 </p>
 
-## 🔥 GitHub Repos, Stars & Forks:
+## 🔥 GitHub Stars:
 <p align="center">
   <img src="https://img.shields.io/github/stars/Shahilali5?style=for-the-badge&logo=github&label=Stars" alt="Total Stars"/>
-  <img src="https://img.shields.io/github/forks/Shahilali5?style=for-the-badge&logo=github&label=Forks" alt="Total Forks"/>
-  <img src="https://img.shields.io/github/repos/Shahilali5?style=for-the-badge&logo=github&label=Repos" alt="Total Repos"/>
 </p>
 
 
