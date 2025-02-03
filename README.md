@@ -12,12 +12,11 @@
 
 ### 👨‍💻 About Me:
 - 🔥 I’m currently working with **[Shahil](https://github.com/Shahilali5)**
-- 
-**Technologies:** Python, Java, PHP, JavaScript  
-**Web Development:** HTML, CSS, JavaScript, PHP  
-**Bot Development:** Telegram Bot, AI Assistants  
-**Frameworks & Tools:** Node.js, React, Firebase, MongoDB  
-**Location:** Patna, Bihar, India  
+- 🌟 I specialize in **Bot Development, Web Development, and Automation**
+- 📍 I’m from **Patna, Bihar, India **
+- 💼 Owner of **multiple Telegram Bots & Web Projects**
+- 🏆 I love coding and building **unique solutions**  
+- 📧 Reach me at **sahilraz9265@gmail.com** 
 ---
 
 ## 📊 GitHub Stats:
